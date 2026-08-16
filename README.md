@@ -1,7 +1,7 @@
-# SOC Home Lab
+# soc-home-lab
 
-Lab de detección de amenazas usando Wazuh (SIEM), con Kali Linux 
-como atacante y Ubuntu Server como víctima, ambos con agentes Wazuh.
+Home lab de detección de amenazas con Wazuh, Kali y Ubuntu. 
+Simulo ataques comunes y documento cómo Wazuh los detecta, analizando reglas, decoders y correlación de eventos.
 
 ## Casos documentados
-- [01 - SSH Brute Force Detection](casos/01-ssh-bruteforce/)
+- [Caso 01 - Detección de fuerza bruta SSH](casos/01-ssh-bruteforce/)
