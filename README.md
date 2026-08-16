@@ -54,4 +54,4 @@ qué alertas investigar primero.
 También aprendí a leer una regla en su definición XML directamente 
 (`ruleset/rules/0095-sshd_rules.xml`), entendiendo qué significan 
 parámetros como `frequency`, `timeframe`, `ignore` y `if_matched_sid` — 
-no solo verla disparada en el dashboard. ACA EN LA ULTMA, LA VERDAD NO SE QUE SINGIFCA ESOS, EXPLICAME, YO SE QUE ES IF RULE Y ESO,
+no solo verla disparada en el dashboard.
